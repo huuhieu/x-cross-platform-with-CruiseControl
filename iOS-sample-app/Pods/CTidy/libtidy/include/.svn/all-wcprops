@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/3779/tags/3.3.1/Pods/CTidy/libtidy/include
+END
+tidy.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/3779/tags/3.3.1/Pods/CTidy/libtidy/include/tidy.h
+END
+buffio.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/3779/tags/3.3.1/Pods/CTidy/libtidy/include/buffio.h
+END
+tidyenum.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/3779/tags/3.3.1/Pods/CTidy/libtidy/include/tidyenum.h
+END
+platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/3779/tags/3.3.1/Pods/CTidy/libtidy/include/platform.h
+END

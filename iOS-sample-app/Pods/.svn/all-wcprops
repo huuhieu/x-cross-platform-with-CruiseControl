@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/!svn/ver/3779/tags/3.3.1/Pods
+END
+PodsDummy_Pods.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/3779/tags/3.3.1/Pods/PodsDummy_Pods.m
+END
+Pods.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/3779/tags/3.3.1/Pods/Pods.xcconfig
+END
+Pods-resources.sh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/3779/tags/3.3.1/Pods/Pods-resources.sh
+END
+Pods-Acknowledgements.plist
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/3779/tags/3.3.1/Pods/Pods-Acknowledgements.plist
+END
+Pods-prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/3779/tags/3.3.1/Pods/Pods-prefix.pch
+END
+Pods-Acknowledgements.markdown
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/3779/tags/3.3.1/Pods/Pods-Acknowledgements.markdown
+END

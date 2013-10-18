@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/3779/tags/3.3.1/Vendor/xmlrpc/Configurations
+END
+XMLRPC.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/3779/tags/3.3.1/Vendor/xmlrpc/Configurations/XMLRPC.xcconfig
+END
+XMLRPCRelease.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/3779/tags/3.3.1/Vendor/xmlrpc/Configurations/XMLRPCRelease.xcconfig
+END
+Common.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/3779/tags/3.3.1/Vendor/xmlrpc/Configurations/Common.xcconfig
+END
+XMLRPCDevelopment.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/3779/tags/3.3.1/Vendor/xmlrpc/Configurations/XMLRPCDevelopment.xcconfig
+END
+XMLRPCUnitTests.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/3779/tags/3.3.1/Vendor/xmlrpc/Configurations/XMLRPCUnitTests.xcconfig
+END
+CommonRelease.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/3779/tags/3.3.1/Vendor/xmlrpc/Configurations/CommonRelease.xcconfig
+END
+XMLRPCUnitTestsRelease.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/3779/tags/3.3.1/Vendor/xmlrpc/Configurations/XMLRPCUnitTestsRelease.xcconfig
+END
+CommonDevelopment.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/3779/tags/3.3.1/Vendor/xmlrpc/Configurations/CommonDevelopment.xcconfig
+END
+XMLRPCUnitTestsDevelopment.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/3779/tags/3.3.1/Vendor/xmlrpc/Configurations/XMLRPCUnitTestsDevelopment.xcconfig
+END
