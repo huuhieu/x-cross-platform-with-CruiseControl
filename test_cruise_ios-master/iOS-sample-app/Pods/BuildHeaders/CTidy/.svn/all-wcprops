@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/3779/tags/3.3.1/Pods/BuildHeaders/CTidy
+END
+win32tc.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/3779/tags/3.3.1/Pods/BuildHeaders/CTidy/win32tc.h
+END
+parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/3779/tags/3.3.1/Pods/BuildHeaders/CTidy/parser.h
+END
+attrs.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/3779/tags/3.3.1/Pods/BuildHeaders/CTidy/attrs.h
+END
+tidyenum.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/3779/tags/3.3.1/Pods/BuildHeaders/CTidy/tidyenum.h
+END
+tags.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/3779/tags/3.3.1/Pods/BuildHeaders/CTidy/tags.h
+END
+mappedio.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/3779/tags/3.3.1/Pods/BuildHeaders/CTidy/mappedio.h
+END
+access.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/3779/tags/3.3.1/Pods/BuildHeaders/CTidy/access.h
+END
+tidy-int.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/3779/tags/3.3.1/Pods/BuildHeaders/CTidy/tidy-int.h
+END
+forward.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/3779/tags/3.3.1/Pods/BuildHeaders/CTidy/forward.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/3779/tags/3.3.1/Pods/BuildHeaders/CTidy/config.h
+END
+iconvtc.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/3779/tags/3.3.1/Pods/BuildHeaders/CTidy/iconvtc.h
+END
+fileio.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/3779/tags/3.3.1/Pods/BuildHeaders/CTidy/fileio.h
+END
+tidy.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/3779/tags/3.3.1/Pods/BuildHeaders/CTidy/tidy.h
+END
+buffio.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/3779/tags/3.3.1/Pods/BuildHeaders/CTidy/buffio.h
+END
+tmbstr.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/3779/tags/3.3.1/Pods/BuildHeaders/CTidy/tmbstr.h
+END
+pprint.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/3779/tags/3.3.1/Pods/BuildHeaders/CTidy/pprint.h
+END
+CTidy.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/3779/tags/3.3.1/Pods/BuildHeaders/CTidy/CTidy.h
+END
+charsets.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/3779/tags/3.3.1/Pods/BuildHeaders/CTidy/charsets.h
+END
+attrdict.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/3779/tags/3.3.1/Pods/BuildHeaders/CTidy/attrdict.h
+END
+lexer.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/3779/tags/3.3.1/Pods/BuildHeaders/CTidy/lexer.h
+END
+clean.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/3779/tags/3.3.1/Pods/BuildHeaders/CTidy/clean.h
+END
+streamio.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/3779/tags/3.3.1/Pods/BuildHeaders/CTidy/streamio.h
+END
+platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/3779/tags/3.3.1/Pods/BuildHeaders/CTidy/platform.h
+END
+entities.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/3779/tags/3.3.1/Pods/BuildHeaders/CTidy/entities.h
+END
+message.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/3779/tags/3.3.1/Pods/BuildHeaders/CTidy/message.h
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/3779/tags/3.3.1/Pods/BuildHeaders/CTidy/version.h
+END
+utf8.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/3779/tags/3.3.1/Pods/BuildHeaders/CTidy/utf8.h
+END

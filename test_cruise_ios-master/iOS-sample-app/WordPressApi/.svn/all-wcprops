@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/3779/tags/3.3.1/WordPressApi
+END
+AFAuthenticationAlertView.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/3779/tags/3.3.1/WordPressApi/AFAuthenticationAlertView.h
+END
+AFXMLRPCClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/3779/tags/3.3.1/WordPressApi/AFXMLRPCClient.h
+END
+WPRSDParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/3779/tags/3.3.1/WordPressApi/WPRSDParser.h
+END
+AFAuthenticationAlertView.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/3779/tags/3.3.1/WordPressApi/AFAuthenticationAlertView.m
+END
+AFXMLRPCClient.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/3779/tags/3.3.1/WordPressApi/AFXMLRPCClient.m
+END
+WPRSDParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/3779/tags/3.3.1/WordPressApi/WPRSDParser.m
+END
+WordPressComApi.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/3779/tags/3.3.1/WordPressApi/WordPressComApi.h
+END
+WordPressApi.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/3779/tags/3.3.1/WordPressApi/WordPressApi.h
+END
+WordPressComApi.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/3779/tags/3.3.1/WordPressApi/WordPressComApi.m
+END
+WordPressApi.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/3779/tags/3.3.1/WordPressApi/WordPressApi.m
+END
