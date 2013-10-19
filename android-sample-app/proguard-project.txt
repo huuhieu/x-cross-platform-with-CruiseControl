@@ -1,0 +1,12 @@
+# For more details, see
+#   http://developer.android.com/guide/developing/tools/proguard.html
+
+# Don't obfuscate output.
+-dontobfuscate
+
+# Allow JS Bridge for WordPress.com reader
+-keepattributes JavascriptInterface
+-keep public class org.wordpress.android.WPCOMReaderBase$JavaScriptInterface
+-keepclassmembers class org.wordpress.android.WPCOMReaderBase$JavaScriptInterface { 
+    <methods>; 
+}

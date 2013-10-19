@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/!svn/ver/885/tags/2.2.7/libs
+END
+CWAC-Bus.jar
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/885/tags/2.2.7/libs/CWAC-Bus.jar
+END
+httpmime-4.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/885/tags/2.2.7/libs/httpmime-4.1.2.jar
+END
+CWAC-AdapterWrapper.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/885/tags/2.2.7/libs/CWAC-AdapterWrapper.jar
+END
+CWAC-Task.jar
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/885/tags/2.2.7/libs/CWAC-Task.jar
+END
+tagsoup-1.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/885/tags/2.2.7/libs/tagsoup-1.2.1.jar
+END
+android-support-v4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/885/tags/2.2.7/libs/android-support-v4.jar
+END

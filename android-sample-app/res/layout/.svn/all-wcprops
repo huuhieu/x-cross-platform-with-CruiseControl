@@ -1,0 +1,311 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/885/tags/2.2.7/res/layout
+END
+viewcomments.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/885/tags/2.2.7/res/layout/viewcomments.xml
+END
+add_account_settings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/885/tags/2.2.7/res/layout/add_account_settings.xml
+END
+select_categories.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/885/tags/2.2.7/res/layout/select_categories.xml
+END
+edit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/885/tags/2.2.7/res/layout/edit.xml
+END
+view_web_stats.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/885/tags/2.2.7/res/layout/view_web_stats.xml
+END
+dashboard.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/885/tags/2.2.7/res/layout/dashboard.xml
+END
+reader_web_page.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/885/tags/2.2.7/res/layout/reader_web_page.xml
+END
+add_quickpress_shortcut.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/885/tags/2.2.7/res/layout/add_quickpress_shortcut.xml
+END
+link.xml
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/885/tags/2.2.7/res/layout/link.xml
+END
+blogs_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/885/tags/2.2.7/res/layout/blogs_row.xml
+END
+posts_tab_selector.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/885/tags/2.2.7/res/layout/posts_tab_selector.xml
+END
+select_blogs_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/885/tags/2.2.7/res/layout/select_blogs_list.xml
+END
+reader.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/885/tags/2.2.7/res/layout/reader.xml
+END
+popup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/885/tags/2.2.7/res/layout/popup.xml
+END
+moderatecomments.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/885/tags/2.2.7/res/layout/moderatecomments.xml
+END
+reader_wpcom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/885/tags/2.2.7/res/layout/reader_wpcom.xml
+END
+row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/885/tags/2.2.7/res/layout/row.xml
+END
+row_post_page.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/885/tags/2.2.7/res/layout/row_post_page.xml
+END
+about.xml
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/885/tags/2.2.7/res/layout/about.xml
+END
+categories_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/885/tags/2.2.7/res/layout/categories_row.xml
+END
+spinner_textview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/885/tags/2.2.7/res/layout/spinner_textview.xml
+END
+home_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/885/tags/2.2.7/res/layout/home_row.xml
+END
+blogs_row_actionbar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/885/tags/2.2.7/res/layout/blogs_row_actionbar.xml
+END
+dashboard_buttons_landscape.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/885/tags/2.2.7/res/layout/dashboard_buttons_landscape.xml
+END
+viewpost.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/885/tags/2.2.7/res/layout/viewpost.xml
+END
+reader_detail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/885/tags/2.2.7/res/layout/reader_detail.xml
+END
+alert_image_options.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/885/tags/2.2.7/res/layout/alert_image_options.xml
+END
+stats_tab_selector.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/885/tags/2.2.7/res/layout/stats_tab_selector.xml
+END
+reader_wpcom_pager.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/885/tags/2.2.7/res/layout/reader_wpcom_pager.xml
+END
+comments.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/885/tags/2.2.7/res/layout/comments.xml
+END
+add_category.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/885/tags/2.2.7/res/layout/add_category.xml
+END
+pages_tab_selector.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/885/tags/2.2.7/res/layout/pages_tab_selector.xml
+END
+table_row_header.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/885/tags/2.2.7/res/layout/table_row_header.xml
+END
+home.xml
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/885/tags/2.2.7/res/layout/home.xml
+END
+comment_tab_selector.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/885/tags/2.2.7/res/layout/comment_tab_selector.xml
+END
+view_stats.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/885/tags/2.2.7/res/layout/view_stats.xml
+END
+dashboard_buttons_portrait.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/885/tags/2.2.7/res/layout/dashboard_buttons_portrait.xml
+END
+action_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/885/tags/2.2.7/res/layout/action_item.xml
+END
+reply.xml
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/885/tags/2.2.7/res/layout/reply.xml
+END
+list_footer_btn.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/885/tags/2.2.7/res/layout/list_footer_btn.xml
+END
+view_comment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/885/tags/2.2.7/res/layout/view_comment.xml
+END
+settings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/885/tags/2.2.7/res/layout/settings.xml
+END
+action_bar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/885/tags/2.2.7/res/layout/action_bar.xml
+END
+viewposts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/885/tags/2.2.7/res/layout/viewposts.xml
+END
+add_account.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/885/tags/2.2.7/res/layout/add_account.xml
+END
+new_account.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/885/tags/2.2.7/res/layout/new_account.xml
+END
+edit_comment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/885/tags/2.2.7/res/layout/edit_comment.xml
+END
+posts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/885/tags/2.2.7/res/layout/posts.xml
+END
+image_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/885/tags/2.2.7/res/layout/image_view.xml
+END
+list_footer_progress.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/885/tags/2.2.7/res/layout/list_footer_progress.xml
+END
+table_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/885/tags/2.2.7/res/layout/table_row.xml
+END

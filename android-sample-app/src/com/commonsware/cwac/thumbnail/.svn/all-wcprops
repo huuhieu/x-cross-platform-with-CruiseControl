@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/885/tags/2.2.7/src/com/commonsware/cwac/thumbnail
+END
+ThumbnailActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/885/tags/2.2.7/src/com/commonsware/cwac/thumbnail/ThumbnailActivity.java
+END
+ThumbnailAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/885/tags/2.2.7/src/com/commonsware/cwac/thumbnail/ThumbnailAdapter.java
+END
+ThumbnailMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/885/tags/2.2.7/src/com/commonsware/cwac/thumbnail/ThumbnailMessage.java
+END
+ThumbnailBus.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/885/tags/2.2.7/src/com/commonsware/cwac/thumbnail/ThumbnailBus.java
+END
